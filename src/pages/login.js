@@ -112,7 +112,7 @@ const LoginPage = (props) => {
             </div>
 
             <Button fullWidth type={'submit'} level={'primary'}>
-              LOG IN
+              LOG IN zezo
             </Button>
             <span className={styles.createLink}>New Customer? </span>
             <Button
